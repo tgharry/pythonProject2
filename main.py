@@ -38,4 +38,4 @@ def Calculator(func, x, y):
         return print(Add(x,y));
     elif func == 'Mul':
         return print(Mul(x,y));
-//test
+#test
